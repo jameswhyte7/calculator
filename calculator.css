@@ -1,0 +1,24 @@
+.container {
+    margin-top: 70px;
+}
+
+.dark-grey {
+    background-color: grey;
+    font-size: 2.5rem;
+}
+
+.orange {
+    background-color: orange;
+    font-size: 2.5rem;
+}
+
+.light-grey {
+    background-color: lightgrey;
+    font-size: 2.5rem;
+    border-color: grey;
+}
+
+.white-font {
+    color: white;
+    font-size: 2.5rem;
+}
